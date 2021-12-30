@@ -1,0 +1,12 @@
+[submodule "museo-restauraciones"]
+	path = museo-restauraciones
+	url = https://github.com/BredGrall/museo-restauraciones
+[submodule "museo-taquilla"]
+	path = museo-taquilla
+	url = https://github.com/thatmaskedman/museo-taquilla
+[submodule "taquilla-front"]
+	path = taquilla-front
+	url = git@github.com:ger88555/taquilla-front
+[submodule "museo-banco"]
+	path = museo-banco
+	url = https://github.com/martineduardo/museo-banco
